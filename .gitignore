@@ -1,0 +1,26 @@
+# Folders
+bin/
+obj/
+.vs/
+
+# File extensions
+*.aps
+*.binlog
+*.dll
+*.DS_Store
+*.exe
+*.idb
+*.lib
+*.log
+*.pch
+*.pdb
+*.pidb
+*.psess
+*.res
+*.snk
+*.so
+*.suo
+*.tlog
+*.user
+*.userprefs
+*.vspx
